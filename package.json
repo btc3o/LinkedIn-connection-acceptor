@@ -1,0 +1,16 @@
+{
+  "name": "linkedin_req_accepter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "node linkedin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^9.1.1"
+  }
+}
